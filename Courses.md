@@ -7,7 +7,7 @@ Finally, it is important to note that I organized the list in alphabetical order
 
 ## Geting Started Roadmap
 1. Python: [(PAID) Colt Steele's Python 3 Udemy Course](https://www.udemy.com/course/the-modern-python3-bootcamp/)
-2. Hardware: [(FREE) Professor Messer's CompTIA A+ Course](https://www.professormesser.com/free-a-plus-training/220-1001/220-1000-training-course/)
+2. IT Basics: [(FREE) Professor Messer's CompTIA A+ Course](https://www.professormesser.com/free-a-plus-training/220-1001/220-1000-training-course/)
 3. Linux: [(PAID) Ziyad Yehia's Linux Mastery Udemy Course](https://www.udemy.com/course/linux-mastery/)
 4. Networking: [(PAID) David Bombal's CCNA Udemy Course](https://www.udemy.com/course/cisco-ccent-icnd1-100-105-complete-course-sims-and-gns3/)
 5. Windows: [(PAID) Windows Server Administration Concepts Pluralsight Path](https://app.pluralsight.com/paths/skill/windows-server-administration-concepts)
@@ -21,7 +21,7 @@ Finally, it is important to note that I organized the list in alphabetical order
 ### MySQL
 - [(PAID) Colt Steele's MySQL Udemy Course](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 
-## Hardware
+## IT Basics
 - [(FREE) Professor Messer's CompTIA A+ Course](https://www.professormesser.com/free-a-plus-training/220-1001/220-1000-training-course/)
 - [(PAID) CBTNuggets CompTIA A+ Course](https://www.cbtnuggets.com/certification-playlist/comptia-a-plus)
 
