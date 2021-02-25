@@ -21,7 +21,7 @@ Finally, it is important to note that I organized the list in alphabetical order
 ### MySQL
 - [(PAID) Colt Steele's MySQL Udemy Course](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 
-## Hardwarre
+## Hardware
 - [(FREE) Professor Messer's CompTIA A+ Course](https://www.professormesser.com/free-a-plus-training/220-1001/220-1000-training-course/)
 - [(PAID) CBTNuggets CompTIA A+ Course](https://www.cbtnuggets.com/certification-playlist/comptia-a-plus)
 
