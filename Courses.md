@@ -51,3 +51,6 @@ Finally, it is important to note that I organized the list in alphabetical order
 ## Web
 - [(PAID) Colt Steele's Web Developer Bootcamp Udemy Course](https://www.udemy.com/course/the-web-developer-bootcamp/)
 - [(PAID) Colt Steele's Javascript Bootcamp Udemy Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
+
+## Virtualization
+- TODO
