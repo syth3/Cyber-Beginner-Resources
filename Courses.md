@@ -8,7 +8,7 @@ Finally, it is important to note that I organized the list in alphabetical order
 ## Geting Started Roadmap
 1. Python: [(PAID) Colt Steele's Python 3 Udemy Course](https://www.udemy.com/course/the-modern-python3-bootcamp/)
 2. IT Basics: [(PAID) CBTNuggets CompTIA A+ Course](https://www.cbtnuggets.com/certification-playlist/comptia-a-plus)
-3. Linux: [(PAID) Ziyad Yehia's Linux Mastery Udemy Course](https://www.udemy.com/course/linux-mastery/)
+3. Linux: [(PAID) Colt Steele's The Linux Command Line Bootcamp: Beginner To Power User Udemy Course](https://www.udemy.com/course/the-linux-command-line-bootcamp/)
 4. Networking: [(PAID) David Bombal's CCNA Udemy Course](https://www.udemy.com/course/cisco-ccent-icnd1-100-105-complete-course-sims-and-gns3/)
 5. Windows: [(PAID) Windows Server Administration Concepts Pluralsight Path](https://app.pluralsight.com/paths/skill/windows-server-administration-concepts)
 6. Windows: [(PAID) Active Directory Administration Pluralsight Path](https://app.pluralsight.com/paths/skill/active-directory-administration)
@@ -30,7 +30,7 @@ Finally, it is important to note that I organized the list in alphabetical order
 
 ## Operating System
 ### Linux
-- [(PAID) Ziyad Yehia's Linux Mastery Udemy Course](https://www.udemy.com/course/linux-mastery/)
+- [(PAID) Colt Steele's The Linux Command Line Bootcamp: Beginner To Power User Udemy Course](https://www.udemy.com/course/the-linux-command-line-bootcamp/)
 ### Windows
 - [(PAID) Windows Server Administration Concepts Pluralsight Path](https://app.pluralsight.com/paths/skill/windows-server-administration-concepts)
 - [(PAID) Active Directory Administration Pluralsight Path](https://app.pluralsight.com/paths/skill/active-directory-administration)
