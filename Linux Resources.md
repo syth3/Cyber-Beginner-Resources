@@ -6,6 +6,7 @@
 
 ## Intermediate Resources
 - [UNIX and Linux System Administration Hanbook, 5th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554/ref=nodl_)
+- [Mastering Ubuntu Server](https://www.amazon.com/Mastering-Ubuntu-Server-configuring-troubleshooting/dp/1800564643?asin=1800564643&revisionId=&format=4&depth=1)
 
 ## Advanced Resources
 - [The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200)
