@@ -85,7 +85,7 @@ Once you feel comfortable manually setting up a VM, try to automate it! Below ar
 - [Terraform](https://www.terraform.io/)
 - [Packer](https://www.packer.io/)
 
-## Homelabbing Resources
+## Resources
 
 ### YouTube Channels
 - [Craft Computing](https://youtube.com/c/CraftComputing)
