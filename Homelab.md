@@ -84,3 +84,20 @@ Once you feel comfortable manually setting up a VM, try to automate it! Below ar
 - [PowerShell](https://docs.microsoft.com/en-us/powershell/)
 - [Terraform](https://www.terraform.io/)
 - [Packer](https://www.packer.io/)
+
+## Homelabbing Resources
+
+### YouTube Channels
+- [Craft Computing](https://youtube.com/c/CraftComputing)
+- [LearnLinuxTV](https://youtube.com/c/LearnLinuxtv)
+- [Techno Tim](https://youtube.com/c/TechnoTimLive)
+- [Lawrence Systems](https://youtube.com/user/TheTecknowledge)
+- [David Bombal](https://youtube.com/c/DavidBombal)
+- [ServeTheHome](https://youtube.com/c/ServeTheHomeVideo)
+- [2GuysTek](https://youtube.com/c/2GuysTek)
+- [Linus Tech Tips](https://youtube.com/c/LinusTechTips)
+
+### Podcasts
+- [Self Hosted](https://selfhosted.show/)
+- [2.5 Admins](https://2.5admins.com/)
+- [On The Metal](https://oxide.computer/podcasts)
