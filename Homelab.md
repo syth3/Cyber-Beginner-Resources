@@ -8,7 +8,7 @@ Hardware is where you need to start for a homelab. The good news is you probably
 
 # Software
 ## Hypervisors
-Unless you have tons of physical computers to mess with (and frankly even if you do), a hypervisor is going to be the foundation of your homelab. A hypervisor is a piece of software (just like Word, Excel, or Chrome is) that allows you to run a virtual machine (VM) on top of itself. If these concepts are completely new to you, check out [this video](https://youtu.be/wX75Z-4MEoM)
+Unless you have tons of physical computers to mess with (and frankly even if you do), a hypervisor is going to be the foundation of your homelab. A hypervisor is a piece of software (just like Word, Excel, or Chrome is) that allows you to run a virtual machine (VM) on top of itself. If these concepts are completely new to you, check out [this video](https://youtu.be/wX75Z-4MEoM).
 
 There are two main types of hypervisors: type 1 and type 2. A type 1 hypervisor is meant to be installed on the bare metal of a computer much like Windows or Linux would be. Because of this, a type 1 hypervisor turns a computer into a dedicated virtual machine manager. Most people do not have a dedicated computer to run VMs and therefore will prefer to use a type 2 hypervisor. A type 2 hypervisor is installed on top of an operating system (Windows, MacOS, Linux).
 
