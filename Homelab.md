@@ -59,7 +59,7 @@ Obviously there is a lot of software here so make sure to have fun with it! Pick
 ## Windows Hosts
 In the Windows land unfortunately everything is not free like it is with Linux. Fortunately, [Microsoft's Evaluation Center](https://www.microsoft.com/en-us/evalcenter/) gives away evaluation versions of their products which allow you to run their software anywhere from 90 to 180 days. This is usually plenty of time to test something on a homelab. I believe you can also extend the evaluation period for these VMs. Also, For more long term Windows 7, 8, and 10 hosts, check out the [Microsoft Edge Developer](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) page. These VMs boot with instructions on how to extend the time you can use the VM on the Desktop wallpaper.
 
-Once you get your operating system up and running, install and play around with some of the following software (most important ones in bold):
+Once you get your operating system up and running, install and play around with some of the following software.
 
 **Most important:**
 - [Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
