@@ -78,7 +78,7 @@ Once you get your operating system up and running, install and play around with 
 If you are interested in learning about routers, firewalls, etc., there are many different VMs you can download to play around with. The two I recommend are [pfSense](https://www.pfsense.org/) and [OPNsense](https://opnsense.org/). These VMs both act as a completely functional router and therefore can be used to build virtual networks. If you are interested in learning about how to configure Cisco equipment, I recommend checking out [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and [GNS3](https://www.gns3.com/).
 
 ## Automation
-Once you feel comfortable manually setting up a VM, try to automate it! Below are a list of automation software I recommend to learn:
+Once you feel comfortable manually setting up a VM, try to automate it! Below is a list of automation software I recommend to learn:
 - [Ansible](https://www.ansible.com/)
   - [This book](https://www.ansiblefordevops.com/) is a great way to learn Ansible
 - [PowerShell](https://docs.microsoft.com/en-us/powershell/)
