@@ -30,7 +30,7 @@ Finally, it is important to note that I organized the list in alphabetical order
 
 ## Operating System
 ### Linux
-- [See seprate document for more resources](./Linux Resources.md)
+- [See seprate document for more resources](https://github.com/syth3/Cyber-Beginner-Resources/blob/main/Linux%20Resources.md)
 ### Windows
 - [(PAID) Windows Server Administration Concepts Pluralsight Path](https://app.pluralsight.com/paths/skill/windows-server-administration-concepts)
 - [(PAID) Active Directory Administration Pluralsight Path](https://app.pluralsight.com/paths/skill/active-directory-administration)
