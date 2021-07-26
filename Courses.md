@@ -30,7 +30,7 @@ Finally, it is important to note that I organized the list in alphabetical order
 
 ## Operating System
 ### Linux
-- [(PAID) Colt Steele's The Linux Command Line Bootcamp: Beginner To Power User Udemy Course](https://www.udemy.com/course/the-linux-command-line-bootcamp/)
+- [See seprate document for more resources](https://github.com/syth3/Cyber-Beginner-Resources/blob/main/Linux%20Resources.md)
 ### Windows
 - [(PAID) Windows Server Administration Concepts Pluralsight Path](https://app.pluralsight.com/paths/skill/windows-server-administration-concepts)
 - [(PAID) Active Directory Administration Pluralsight Path](https://app.pluralsight.com/paths/skill/active-directory-administration)

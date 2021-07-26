@@ -3,16 +3,16 @@ If you're looking to land a technical cyber security job, a homelab is one of th
 
 
 # Hardware
-Hardware is where you need to start for a homelab. The good news is you probably already own hardware you can run a lab on. Any laptop or computer you own with at least 8GB of RAM, 25GB of available storage, and a dual core processor can get you started! As you progress in your homelab you will want more and more hardware. More hardware allows you to run more VMs. When looking at hardware upgrades to a homelab, RAM is what will seem to run out first. I recommend 16GB-32GB if you can get your hands on it. If you have access to more RAM than 16GB-32GB that's great! More RAM always being better. Also, if you don't have one already, running VMs on an SSD will be **far** faster than running them on a hard drive. Finally, if you can upgrade your CPU, look to get as many cores and threads as possible. As you tinker with your own lab you will start to learn what hardware you need more of for your use case. Don't feel pressured to get the "perfect hardware" at the start. For most people, just using what you already have and going from there is the best way to do it. 
+Hardware is where you need to start for a homelab. The good news is you probably already own hardware you can run a lab on. Any laptop or computer you own with at least 8GB of RAM, 25GB of available storage, and a dual core processor can get you started! As you progress in your homelab you will want more and more hardware. More hardware allows you to run more VMs. When looking at hardware upgrades to a homelab, RAM is what will seem to run out first. I recommend 16GB-32GB if you can get your hands on it. If you have access to more RAM than 16GB-32GB that's great! More RAM is always better. Also, if you don't have one already, running VMs on an SSD will be **far** faster than running them on a hard drive. Finally, if you can upgrade your CPU, look to get as many cores and threads as possible. As you tinker with your own lab you will start to learn what hardware you need more of for your use case. Don't feel pressured to get the "perfect hardware" at the start. For most people, just using what you already have and going from there is the best way to do it. 
 
 
 # Software
 ## Hypervisors
-Unless you have tons of physical computers to mess with (and frankly even if you do), a hypervisor is going to be the foundation of your homelab. A hypervisor is a piece of software (just like Word, Excel, or Chrome is) that allows you to run a virtual machine (VM) on top of itself.  
+Unless you have tons of physical computers to mess with (and frankly even if you do), a hypervisor is going to be the foundation of your homelab. A hypervisor is a piece of software (just like Word, Excel, or Chrome is) that allows you to run a virtual machine (VM) on top of itself. If these concepts are completely new to you, check out [this video](https://youtu.be/wX75Z-4MEoM).
 
 There are two main types of hypervisors: type 1 and type 2. A type 1 hypervisor is meant to be installed on the bare metal of a computer much like Windows or Linux would be. Because of this, a type 1 hypervisor turns a computer into a dedicated virtual machine manager. Most people do not have a dedicated computer to run VMs and therefore will prefer to use a type 2 hypervisor. A type 2 hypervisor is installed on top of an operating system (Windows, MacOS, Linux).
 
-When it comes to free type 2 hypervisors, there are a bunch of options. The table below includes some type 2 hypervisors that I recommend. 
+When it comes to type 2 hypervisors, there are a bunch of options. The table below includes some type 2 hypervisors that you will come across. 
 |                                         Name                                         |     OS Compatibility    |   Price  |
 |:------------------------------------------------------------------------------------:|:-----------------------:|:--------:|
 |                       [VirtualBox](https://www.virtualbox.org/)                      | Windows, Mac, and Linux |   Free   |
@@ -59,7 +59,7 @@ Obviously there is a lot of software here so make sure to have fun with it! Pick
 ## Windows Hosts
 In the Windows land unfortunately everything is not free like it is with Linux. Fortunately, [Microsoft's Evaluation Center](https://www.microsoft.com/en-us/evalcenter/) gives away evaluation versions of their products which allow you to run their software anywhere from 90 to 180 days. This is usually plenty of time to test something on a homelab. I believe you can also extend the evaluation period for these VMs. Also, For more long term Windows 7, 8, and 10 hosts, check out the [Microsoft Edge Developer](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) page. These VMs boot with instructions on how to extend the time you can use the VM on the Desktop wallpaper.
 
-Once you get your operating system up and running, install and play around with some of the following software (most important ones in bold):
+Once you get your operating system up and running, install and play around with some of the following software.
 
 **Most important:**
 - [Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
@@ -78,9 +78,26 @@ Once you get your operating system up and running, install and play around with 
 If you are interested in learning about routers, firewalls, etc., there are many different VMs you can download to play around with. The two I recommend are [pfSense](https://www.pfsense.org/) and [OPNsense](https://opnsense.org/). These VMs both act as a completely functional router and therefore can be used to build virtual networks. If you are interested in learning about how to configure Cisco equipment, I recommend checking out [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and [GNS3](https://www.gns3.com/).
 
 ## Automation
-Once you feel comfortable manually setting up a VM, try to automate it! Below are a list of automation software I recommend to learn:
+Once you feel comfortable manually setting up a VM, try to automate it! Below is a list of automation software I recommend to learn:
 - [Ansible](https://www.ansible.com/)
   - [This book](https://www.ansiblefordevops.com/) is a great way to learn Ansible
 - [PowerShell](https://docs.microsoft.com/en-us/powershell/)
 - [Terraform](https://www.terraform.io/)
 - [Packer](https://www.packer.io/)
+
+## Resources
+
+### YouTube Channels
+- [Craft Computing](https://youtube.com/c/CraftComputing)
+- [LearnLinuxTV](https://youtube.com/c/LearnLinuxtv)
+- [Techno Tim](https://youtube.com/c/TechnoTimLive)
+- [Lawrence Systems](https://youtube.com/user/TheTecknowledge)
+- [David Bombal](https://youtube.com/c/DavidBombal)
+- [ServeTheHome](https://youtube.com/c/ServeTheHomeVideo)
+- [2GuysTek](https://youtube.com/c/2GuysTek)
+- [Linus Tech Tips](https://youtube.com/c/LinusTechTips)
+
+### Podcasts
+- [Self Hosted](https://selfhosted.show/)
+- [2.5 Admins](https://2.5admins.com/)
+- [On The Metal](https://oxide.computer/podcasts)
